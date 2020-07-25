@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+.formsec
+{
+    background-color: greenyellow;
+}
+.containerbox
+{
+margin-top: 20px;    
+}
+.head
+{
+    background-color:rgb(99, 163, 236);
+    color: white;
+    text-align: center;
+    height: 60px;
+    padding-top: 25px;
+}
+.btn
+{
+    text-align: center;
+    width: 250px;
+}
+#a1
+{
+    margin-right: 160px;
+}
